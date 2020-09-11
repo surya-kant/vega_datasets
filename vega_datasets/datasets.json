@@ -20,8 +20,8 @@
     "format": "json"
   },
   "birdstrikes": {
-    "filename": "birdstrikes.json",
-    "format": "json"
+    "filename": "birdstrikes.csv",
+    "format": "csv"
   },
   "budget": {
     "filename": "budget.json",
